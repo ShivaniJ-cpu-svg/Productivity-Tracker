@@ -1,0 +1,46 @@
+/* WebAct.css */
+.webact {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* Serif font family */
+    font-size: medium;  /* Medium font size */
+    line-height: 1.6;    /* Line height for readability */
+    padding: 20px;       /* Padding around the content */
+    background-color: #f9f9f9;  /* Light background color for the container */
+    border-radius: 8px;  /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for the container */
+    max-width: 350px;    /* Restrict the width of the component */
+    margin: 0 auto;      /* Center the component */
+}
+
+.webact dl {
+    padding: 0;
+    margin: 0;
+}
+
+.webact dt {
+    font-size: 16px;
+    color: #333;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.webact dd {
+    font-size: 14px;
+    color: #555;
+    margin-left: 20px;
+}
+
+.webact div {
+    padding: 8px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.webact div:last-child {
+    border-bottom: none;
+}
+
+.webact h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #444;
+}
+
