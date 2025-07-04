@@ -17,7 +17,7 @@ A Chrome Extension that automatically tracks your web activity, categorizes webs
 it is a lightweight Chrome extension designed to help users become more mindful of their browsing habits. It automatically logs the time you spend on each website and classifies them as productive or unproductive based on your preferences.
 The extension displays your daily activity using a donut chart and a detailed list of time spent per site, giving you a clear picture of your web usage. It’s especially helpful for students, professionals, or anyone aiming to improve digital focus and time management.it displays a popup box with view dashboard to view productivity analytics.
 
-📌 Features
+# 📌 Features
 
 ⏱️ Automatic tracking of websites
 
@@ -32,7 +32,7 @@ The extension displays your daily activity using a donut chart and a detailed li
 🧹 Clear browsing data anytime
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 React.js + JavaScript
 
@@ -43,7 +43,7 @@ localStorage for saving data
 Chrome APIs (tabs, idle, storage)
 
 
-📦 Installation
+# 📦 Installation
 
 Download the project:
 
