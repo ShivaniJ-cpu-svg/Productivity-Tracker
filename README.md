@@ -31,7 +31,9 @@ The extension displays your daily activity using a donut chart and a detailed li
 
 🧹 Clear browsing data anytime
 
+
 🛠️ Tech Stack
+
 React.js + JavaScript
 
 Material-UI, react-donut-chart
@@ -40,7 +42,9 @@ localStorage for saving data
 
 Chrome APIs (tabs, idle, storage)
 
+
 📦 Installation
+
 Download the project:
 
 Go to chrome://extensions
