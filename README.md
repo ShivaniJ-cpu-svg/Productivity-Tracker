@@ -10,7 +10,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 BATCH DURATION: JUNE 5th,2025 to JULY 5th, 2025
 
-MENTOR NAME : NEELA SANTHOSH KUMAR
+MENTOR NAME : NEELA SANTHOSH
 
 
 A Chrome Extension that automatically tracks your web activity, categorizes websites as productive or unproductive, and visualizes your online habits to help improve focus.
