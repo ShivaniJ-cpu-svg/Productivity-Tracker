@@ -1,4 +1,4 @@
-🚀 Productivity Tracker – Chrome Extension
+# 🚀 Productivity Tracker – Chrome Extension
 
 COMPANY: CODTECH IT SOLUTIONS
 
