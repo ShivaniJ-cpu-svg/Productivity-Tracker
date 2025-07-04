@@ -44,9 +44,13 @@ Chrome APIs (tabs, idle, storage)
 Download the project:
 
 Go to chrome://extensions
+
 Enable Developer Mode
+
 Click "Load Unpacked"
-Select the build/ folde
+
+Select the build folder
+
 # output
 <img width="432" height="220" alt="Image" src="https://github.com/user-attachments/assets/b15c4a29-3658-4bbb-a59d-cd009856e7ca" />
 <img width="1149" height="748" alt="Image" src="https://github.com/user-attachments/assets/e9a008a6-7e2b-4b5f-b443-c24af76cd8fc" />
