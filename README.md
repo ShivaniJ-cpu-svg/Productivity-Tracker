@@ -18,6 +18,7 @@ it is a lightweight Chrome extension designed to help users become more mindful 
 The extension displays your daily activity using a donut chart and a detailed list of time spent per site, giving you a clear picture of your web usage. It’s especially helpful for students, professionals, or anyone aiming to improve digital focus and time management.it displays a popup box with view dashboard to view productivity analytics.
 
 📌 Features
+
 ⏱️ Automatic tracking of websites
 
 📊 Visual analytics with donut chart
